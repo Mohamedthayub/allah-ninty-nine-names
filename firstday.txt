@@ -18,4 +18,9 @@ ar-razzak
 al-fattah 
 al-alim 
 al-qaabid 
+al-basith 
+al-qafid 
+ar-rafi 
+al-muizz
+al-muhdil
 
